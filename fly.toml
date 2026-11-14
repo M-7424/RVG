@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rvg-mmm on 2026-11-14T14:25:54Z
+# fly.toml app configuration file generated for rvg-4vzzew on 2026-11-14T14:36:45Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'rvg-mmm'
-primary_region = 'fra'
+app = 'rvg-4vzzew'
+primary_region = 'nrt'
 
 [build]
 [http_service]
